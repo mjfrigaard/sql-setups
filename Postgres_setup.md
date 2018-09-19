@@ -2,6 +2,8 @@
 
 Download the application from [this](https://postgresapp.com/) website and follow the installation instructions. 
 
+The syntax documentation is [here](https://www.postgresql.org/docs/10/static/index.html) for Postgres.
+
 ## First steps 
 
 In the terminal, enter the following:
