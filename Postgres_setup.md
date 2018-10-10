@@ -1,5 +1,11 @@
 # PostgreSQL application and setup
 
+***
+
+mac OS High Sierra 10.13.6
+
+***
+
 Download the application from [this](https://postgresapp.com/) website and follow the installation instructions. 
 
 The syntax documentation is [here](https://www.postgresql.org/docs/10/static/index.html) for Postgres.
