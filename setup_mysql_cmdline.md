@@ -1,6 +1,10 @@
 Setting up MySQL from the command line
 ================
 
+mac OS High Sierra 10.13.6
+
+***
+
 # Motivation
 
 This document covers how to set up a MySQL database on your local
