@@ -1,2 +1,3 @@
-# sql_setups
-Various SQL configurations for MySQL, Postgres, etc.
+# SQL setups
+
+These are various SQL configurations for MySQL, Postgres, etc. They are done using macOS Mojave, version 10.14.2.
